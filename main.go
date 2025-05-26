@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-    token := os.Getenv("1325102451:AAF4_JiwGDaQ9f8GyyRphl4UWssCuTgI9TA")
+    token := os.Getenv("1325102451:AAHIGKxaFfRV2xnLkLJ5KV2fI36pNH8K5Vk")
     if token == "" {
         log.Fatal("BOT_TOKEN is not set")
     }
